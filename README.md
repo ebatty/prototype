@@ -5,7 +5,7 @@ Neuromatch Comp Neuro Book
 ## Usage
 
 ### Building the book
-
+Test
 If you'd like to develop on and build the prototype book, you should:
 
 - Clone this repository and run
